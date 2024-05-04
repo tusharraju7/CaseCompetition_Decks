@@ -6,6 +6,7 @@
 * Position - 2nd Place
 * Prize - $10,000
 * Presentation Deck - https://www.canva.com/design/DAF_CRXk4LU/fSZGTduHyFQrG9cfyilqyw/view?utm_content=DAF_CRXk4LU&utm_campaign=designshare&utm_medium=link&utm_source=editor
+* Article - https://www.utm.utoronto.ca/imi/news/imi-bigdataaihub-announces-winners-2024-competition-fighting-crime-big-data-and-artificial 
 
 
 **2. Intuit Product Management Case Competition**
